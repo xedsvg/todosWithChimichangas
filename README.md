@@ -1,2 +1,7 @@
 # todosWithChimichangas
-No touchy tha fishy
+
+## Project run
+```
+docker-compose up
+```
+
